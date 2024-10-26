@@ -15,7 +15,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
 ## Correspondence email: yyf17@tsinghua.org.cn
 
 ### 人员名单如下：本组参加组会的所有2022、2023、2024三届学生
-#### 2022
+### 2022
 
 <table align="center" width="100%" height="800px">
   <tr>
@@ -95,6 +95,114 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
           </span>
           <h2>曹钰炳</h2>
           <h3>语音合成</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 2023
+
+<table align="center" width="100%" height="800px">
+  <tr>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/zhutao.jpeg" alt="zt" width="100" height="100">
+          </span>
+          <h2>朱涛</h2>
+          <h3>语音合成</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/sunshiyu.jpeg" alt="ssy" width="100" height="100">
+          </span>
+          <h2>孙世宇</h2>
+          <h3>视听分离</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/zhutianheng.jpeg" alt="zth" width="100" height="100">
+          </span>
+          <h2>主田横</h2>
+          <h3>数字人</h3>
+        </a>
+      </div>
+    </td>
+      <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/yangdongsheng.jpeg" alt="yds" width="100" height="100">
+          </span>
+          <h2>杨东升</h2>
+          <h3>视觉语言导航</h3>
+        </a>
+      </div>
+    </td>
+      <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/shaoxuechun.jpeg" alt="sxc" width="100" height="100">
+          </span>
+          <h2>邵雪纯</h2>
+          <h3>语音合成</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/liyahui.jpeg" alt="lyh" width="100" height="100">
+          </span>
+          <h2>李亚慧</h2>
+          <h3>数字人</h3>
+        </a>
+      </div>
+    </td>
+        <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/chenzhiwei.jpeg" alt="czw" width="100" height="100">
+          </span>
+          <h2>陈志伟</h2>
+          <h3>数字人</h3>
+        </a>
+      </div>
+    </td>
+        <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/yangziheng.jpeg" alt="yzh" width="100" height="100">
+          </span>
+          <h2>杨子恒</h2>
+          <h3>数字人</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/fujiahao.jpeg" alt="fjh" width="100" height="100">
+          </span>
+          <h2>付嘉豪</h2>
+          <h3>遥感图像</h3>
         </a>
       </div>
     </td>
