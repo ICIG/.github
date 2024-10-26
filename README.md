@@ -36,8 +36,8 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
           <span class="image fit">
             <img src="./fig/wangxincheng.jpeg" alt="wxc" width="100" height="100">
           </span>
-          <h2>贾路远</h2>
-          <h3>具身智能</h3>
+          <h2>王新程</h2>
+          <h3>情感识别</h3>
         </a>
       </div>
     </td>
@@ -47,8 +47,8 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
           <span class="image fit">
             <img src="./fig/lijiahao.jpeg" alt="ljh" width="100" height="100">
           </span>
-          <h2></h2>
-          <h3>具身智能</h3>
+          <h2>李嘉昊</h2>
+          <h3>情感识别</h3>
         </a>
       </div>
     </td>
@@ -56,10 +56,10 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/lijiahao.jpeg" alt="ljh" width="100" height="100">
+            <img src="./fig/alimujiang.jpeg" alt="almj" width="100" height="100">
           </span>
-          <h2></h2>
-          <h3>具身智能</h3>
+          <h2>阿力木江</h2>
+          <h3>语音增强</h3>
         </a>
       </div>
     </td>
@@ -67,15 +67,38 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/lijiahao.jpeg" alt="ljh" width="100" height="100">
+            <img src="./fig/zhengtao.jpeg" alt="zt" width="100" height="100">
           </span>
-          <h2></h2>
-          <h3>具身智能</h3>
+          <h2>郑涛</h2>
+          <h3>语音增强</h3>
         </a>
       </div>
     </td>
   </tr>
- 
+  <tr>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wangxuankai.jpeg" alt="wxk" width="100" height="100">
+          </span>
+          <h2>王炫凯</h2>
+          <h3>语音合成</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/caoyubing.jpeg" alt="cyb" width="100" height="100">
+          </span>
+          <h2>曹钰炳</h2>
+          <h3>语音合成</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 # Achievement
