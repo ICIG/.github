@@ -15,6 +15,137 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
 ## Correspondence email: yyf17@tsinghua.org.cn
 
 ### 人员名单如下：本组参加组会的所有2022、2023、2024三届学生
+#### 2022
+
+<table align="center" width="100%" height="800px">
+  <tr>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/jiaoxinxin" alt="jxx" width="100" height="100">
+          </span>
+          <h2>焦鑫鑫</h2>
+          <h3>情感识别</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wangxincheng.jpeg" alt="wxc" width="100" height="100">
+          </span>
+          <h2>贾路远</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/lijiahao.jpeg" alt="ljh" width="100" height="100">
+          </span>
+          <h2></h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+      <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/lijiahao.jpeg" alt="ljh" width="100" height="100">
+          </span>
+          <h2></h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+      <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/lijiahao.jpeg" alt="ljh" width="100" height="100">
+          </span>
+          <h2></h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+        <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wushaohang.jpg" alt="吴少航" width="100" height="100">
+          </span>
+          <h2>吴少航</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/liuteng.jpg" alt="刘腾" width="100" height="100">
+          </span>
+          <h2>刘腾</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/zhouxinyu.jpg" alt="周新宇" width="100" height="100">
+          </span>
+          <h2>周新宇</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
+    <tr>
+        <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/zhanghailong.jpg" alt="张海龙" width="100" height="100">
+          </span>
+          <h2>张海龙</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/liushiqi.jpg" alt="刘世奇" width="100" height="100">
+          </span>
+          <h2>刘世奇</h2>
+          <h3>具身智能(联合培养)</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/liuguangjin.jpg" alt="刘广进" width="100" height="100">
+          </span>
+          <h2>刘广进</h2>
+          <h3>具身智能(联合培养)</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 # Achievement
 <!--
