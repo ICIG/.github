@@ -14,6 +14,8 @@ Contact person: Dr. Yu
 
 Correspondence email: yyf17@tsinghua.org.cn
 
+人员名单如下：本组参加组会的所有2022、2023、2024三届学生
+
 # Achievement
 <!--
 | Title | conference or journal |  Year | Authors | Corresponding author | Financial Support | Description | pdf | ppt | arxiv |
