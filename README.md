@@ -188,7 +188,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/yangziheng.jpeg" alt="yzh" width="100" height="100">
+            <img src="./fig/yangzihneg.jpeg" alt="yzh" width="100" height="100">
           </span>
           <h2>杨子恒</h2>
           <h3>数字人</h3>
