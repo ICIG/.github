@@ -269,6 +269,63 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
       </div>
     </td>
   </tr>
+   <tr>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wangkexue.jpg" alt="wkx" width="100" height="100">
+          </span>
+          <h2>王科学</h2>
+          <h3>数字人</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/wangshuo.jpg" alt="ws" width="100" height="100">
+          </span>
+          <h2>王硕</h2>
+          <h3>具身智能</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/yanggujia.jpg" alt="ygj" width="100" height="100">
+          </span>
+          <h2>杨谷佳</h2>
+          <h3>语音增强</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/mahaoran.jpg" alt="mhr" width="100" height="100">
+          </span>
+          <h2>马浩然</h2>
+          <h3>语音合成</h3>
+        </a>
+      </div>
+    </td>
+    <td width="150" height="200">
+      <div align="center" width="100" height="150">
+        <a href="" target="_blank" class="image">
+          <span class="image fit">
+            <img src="./fig/zhaoya.jpg" alt="zy" width="100" height="100">
+          </span>
+          <h2>赵亚</h2>
+          <h3>情感识别</h3>
+        </a>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="150" height="200">
       <div align="center" width="100" height="150">
