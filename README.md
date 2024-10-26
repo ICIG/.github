@@ -211,7 +211,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
 
 ### 2024
 
-<table align="center" width="100%" height="550px">
+<table align="center" width="100%" height="850px">
   <tr>
     <td width="150" height="200">
       <div align="center" width="100" height="150">
