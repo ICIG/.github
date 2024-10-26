@@ -17,7 +17,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
 ### 人员名单如下：本组参加组会的所有2022、2023、2024三届学生
 ### 2022
 
-<table align="center" width="100%" height="800px">
+<table align="center" width="100%" height="500px">
   <tr>
     <td width="150" height="200">
       <div align="center" width="100" height="150">
@@ -103,7 +103,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
 
 ### 2023
 
-<table align="center" width="100%" height="800px">
+<table align="center" width="100%" height="500px">
   <tr>
     <td width="150" height="200">
       <div align="center" width="100" height="150">
