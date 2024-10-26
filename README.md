@@ -23,7 +23,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
-            <img src="./fig/jiaoxinxin" alt="jxx" width="100" height="100">
+            <img src="./fig/jiaoxinxin.jpeg" alt="jxx" width="100" height="100">
           </span>
           <h2>焦鑫鑫</h2>
           <h3>情感识别</h3>
