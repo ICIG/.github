@@ -177,7 +177,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
         </a>
       </div>
     </td>
-        <td width="150" height="200">
+<!--         <td width="150" height="200">
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
           <span class="image fit">
@@ -187,7 +187,7 @@ We are the Intelligent Control and Interaction Group of the Multimodal Informati
           <h3>数字人</h3>
         </a>
       </div>
-    </td>
+    </td> -->
         <td width="150" height="200">
       <div align="center" width="100" height="150">
         <a href="" target="_blank" class="image">
